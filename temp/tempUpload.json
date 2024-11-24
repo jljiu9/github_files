@@ -1,5 +1,11 @@
 {
-  "records": [],
+  "records": [
+    {
+      "path": "upload/624157747.mov",
+      "md5": "797f6f36a2e7edeed1af59b17fcba21221de96a5a4a02afb348df09e5ec13b54",
+      "status": "uploaded"
+    }
+  ],
   "totalSize": 0,
   "startTime": 1732448161454,
   "lastModified": 1732448161454
