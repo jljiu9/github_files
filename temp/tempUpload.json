@@ -27,9 +27,16 @@
       "size": 74200,
       "md5": "57472d5d82a16114baacc99c795a3aaf29a521b41bf313f0137c7c51a41159f6",
       "status": "uploaded"
+    },
+    {
+      "path": "upload/gg.png",
+      "name": "gg.png",
+      "size": 117004,
+      "md5": "1a7f6d214501cfb00fec839afb8a3650b2bc0ce47145a139bee09e2bfd86ad77",
+      "status": "uploaded"
     }
   ],
-  "totalSize": 451068,
+  "totalSize": 568072,
   "startTime": 1732528057513,
-  "lastModified": 1732529435234
+  "lastModified": 1732529441099
 }
