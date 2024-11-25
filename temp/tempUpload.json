@@ -6,9 +6,16 @@
       "size": 27084,
       "md5": "92ea6302ec573543c32899842e5b5875e64572dbe82b7c546499e6365fa4b602",
       "status": "uploaded"
+    },
+    {
+      "path": "upload/1.png",
+      "name": "1.png",
+      "size": 23444,
+      "md5": "da90f99f3a51431d6f540c416bd46f041cb98a8da06ab86d4a398fdfda3f9629",
+      "status": "uploaded"
     }
   ],
-  "totalSize": 27084,
+  "totalSize": 50528,
   "startTime": 1732528057513,
-  "lastModified": 1732528109638
+  "lastModified": 1732528115352
 }
