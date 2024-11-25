@@ -41,9 +41,16 @@
       "size": 47332,
       "md5": "b0895b135a4c866df88fc316ccdf586773776304e205f66985514457ed3e93fb",
       "status": "uploaded"
+    },
+    {
+      "path": "upload/罗蒙秋季.jpg",
+      "name": "罗蒙秋季.jpg",
+      "size": 119140,
+      "md5": "bef4e0889d0a6526bb149e42baa4702865735acea02c76fcb8ec96bece88ac71",
+      "status": "uploaded"
     }
   ],
-  "totalSize": 615404,
+  "totalSize": 734544,
   "startTime": 1732528057513,
-  "lastModified": 1732530074407
+  "lastModified": 1732530080195
 }
