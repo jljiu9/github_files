@@ -55,9 +55,16 @@
       "size": 217764,
       "md5": "592d46c57ebda47d0a59ed31d8a501931b3564610f14bc04a7ba5ef28fcf5806",
       "status": "uploaded"
+    },
+    {
+      "path": "upload/尺码推荐图.jpg",
+      "name": "尺码推荐图.jpg",
+      "size": 80004,
+      "md5": "1545ec8d8799bb19c6fc7bb9c1d46ec827dc71d39147ca86a37a2f65d705f8c0",
+      "status": "uploaded"
     }
   ],
-  "totalSize": 952308,
+  "totalSize": 1032312,
   "startTime": 1732528057513,
-  "lastModified": 1732530893437
+  "lastModified": 1732530898436
 }
