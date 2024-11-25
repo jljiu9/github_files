@@ -1,6 +1,14 @@
 {
-  "records": [],
+  "records": [
+    {
+      "path": "upload/提报爆款-罗蒙 LH6167.xlsx",
+      "name": "提报爆款-罗蒙 LH6167.xlsx",
+      "size": 3147052,
+      "md5": "83ff855d49c7c70d04d2a7b766cdd89890996850806f92b60a5a459b2cd7f0bd",
+      "status": "uploaded"
+    }
+  ],
   "totalSize": 0,
   "startTime": 1732503725798,
-  "lastModified": 1732503748523
+  "lastModified": 1732503758414
 }
