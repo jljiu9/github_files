@@ -48,9 +48,16 @@
       "size": 119140,
       "md5": "bef4e0889d0a6526bb149e42baa4702865735acea02c76fcb8ec96bece88ac71",
       "status": "uploaded"
+    },
+    {
+      "path": "upload/男-中兰.jpg",
+      "name": "男-中兰.jpg",
+      "size": 217764,
+      "md5": "592d46c57ebda47d0a59ed31d8a501931b3564610f14bc04a7ba5ef28fcf5806",
+      "status": "uploaded"
     }
   ],
-  "totalSize": 734544,
+  "totalSize": 952308,
   "startTime": 1732528057513,
-  "lastModified": 1732530431349
+  "lastModified": 1732530438872
 }
