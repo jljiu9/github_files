@@ -20,9 +20,16 @@
       "size": 326340,
       "md5": "318d7b59975f54555431d12481b847692c45540d99d8cdc54d8ea4d0e14dfaf7",
       "status": "uploaded"
+    },
+    {
+      "path": "upload/fff.jpg",
+      "name": "fff.jpg",
+      "size": 74200,
+      "md5": "57472d5d82a16114baacc99c795a3aaf29a521b41bf313f0137c7c51a41159f6",
+      "status": "uploaded"
     }
   ],
-  "totalSize": 376868,
+  "totalSize": 451068,
   "startTime": 1732528057513,
-  "lastModified": 1732529080668
+  "lastModified": 1732529086378
 }
