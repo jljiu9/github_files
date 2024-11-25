@@ -1,6 +1,14 @@
 {
-  "records": [],
-  "totalSize": 0,
+  "records": [
+    {
+      "path": "upload/108.png",
+      "name": "108.png",
+      "size": 27084,
+      "md5": "92ea6302ec573543c32899842e5b5875e64572dbe82b7c546499e6365fa4b602",
+      "status": "uploaded"
+    }
+  ],
+  "totalSize": 27084,
   "startTime": 1732528057513,
-  "lastModified": 1732528066279
+  "lastModified": 1732528071683
 }
