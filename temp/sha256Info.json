@@ -4,6 +4,13 @@
     "size": 119140,
     "type": "image/jpeg",
     "uploadTime": 1732530078207,
+    "references": 2
+  },
+  "592d46c57ebda47d0a59ed31d8a501931b3564610f14bc04a7ba5ef28fcf5806": {
+    "md5": "592d46c57ebda47d0a59ed31d8a501931b3564610f14bc04a7ba5ef28fcf5806",
+    "size": 217764,
+    "type": "image/jpeg",
+    "uploadTime": 1732530435333,
     "references": 1
   }
 }
