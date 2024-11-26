@@ -13,9 +13,16 @@
       "size": 388824,
       "md5": "bb4565eb17032822003e4bfe28f4438995ef7f5d23e9375d1ebf59db4028bdd9",
       "status": "uploaded"
+    },
+    {
+      "path": "upload/A (3).jpg",
+      "name": "A (3).jpg",
+      "size": 386176,
+      "md5": "97739d2443fa9ee308193b31fc78a99f727d48fe81511b459b2c2a943250b0c8",
+      "status": "uploaded"
     }
   ],
-  "totalSize": 833448,
+  "totalSize": 1219624,
   "startTime": 1732621632496,
-  "lastModified": 1732621690925
+  "lastModified": 1732621696671
 }
