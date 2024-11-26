@@ -1,6 +1,14 @@
 {
-  "records": [],
-  "totalSize": 0,
+  "records": [
+    {
+      "path": "upload/A (1).jpg",
+      "name": "A (1).jpg",
+      "size": 444624,
+      "md5": "b5dfb0e7552377a101a2dfca73043e4570ff2b19d3eedbc309335c12189eeb12",
+      "status": "uploaded"
+    }
+  ],
+  "totalSize": 444624,
   "startTime": 1732621632496,
-  "lastModified": 1732621640098
+  "lastModified": 1732621651187
 }
